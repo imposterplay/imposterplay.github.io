@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://imposterplay.github.io/sitemap.xml
