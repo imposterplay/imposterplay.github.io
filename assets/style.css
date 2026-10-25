@@ -50,3 +50,6 @@ button,input,select,textarea,summary,a,[tabindex]{scroll-margin-top:20px;scroll-
 
 .setup-share{text-align:center;margin:10px 0 2px}.setup-share .text-button{min-height:44px;font-size:15px;text-decoration:underline;text-underline-offset:4px}.setup-share p{font-size:12px;color:#626859;margin:0 0 8px}
 
+
+.site-footer>div{flex-wrap:wrap}.article-shell .article-byline{font-size:14px;line-height:1.7;margin-bottom:22px}.article-byline a{text-decoration:underline;text-underline-offset:3px}
+
